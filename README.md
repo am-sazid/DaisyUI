@@ -15,7 +15,6 @@ This repository contains my learning resources, mini projects, and experiments u
 - [Tailwind CSS](https://tailwindcss.com/)
 - [DaisyUI](https://daisyui.com/)
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [JavaScript (optional)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – where needed
 
 ## 💡 Purpose
 
